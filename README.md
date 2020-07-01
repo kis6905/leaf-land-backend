@@ -3,4 +3,4 @@
 
 ## 기술 스택
 * Spring-boot 2.3
-* Spring 5.2
+* Spring 5.2.7
